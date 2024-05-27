@@ -1,7 +1,7 @@
 # DockerVueChatBack (node.js)
 
 mysql, node.js 
-socket.io를 이용하여 front(vue.js)로 Chatting 프로그램 구현
+(socket.io)를 이용하여 front(vue.js)로 Chatting 프로그램 구현
 
 ## npm 준비
 
