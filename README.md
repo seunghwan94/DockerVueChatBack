@@ -3,6 +3,8 @@
 mysql, node.js 
 (socket.io)를 이용하여 front(vue.js)로 Chatting 프로그램 구현
 
+[DockerVueChat notion 바로가기](https://www.notion.so/DockerVueChat-ba27ae64d28e47d48b2dacaa89e81fdf?pvs=4)
+
 ## npm 준비
 
 ```
@@ -35,7 +37,6 @@ node run server.js
 ```
 
 [DockerVueChatFront 바로가기](https://github.com/seunghwan94/DockerVueChatFront)
-[DockerVueChat notion 바로가기](https://www.notion.so/DockerVueChat-ba27ae64d28e47d48b2dacaa89e81fdf?pvs=4)
 
 ### mysql setting
 
